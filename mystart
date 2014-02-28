@@ -1,0 +1,4 @@
+export PATH=/usr/local/csl/arm-2012.03/bin:$PATH
+make
+make qemuauto
+make qemu
