@@ -14,7 +14,6 @@ SECTIONS
  		*(.text)
  		*(.text.*)
 		*(.rodata)
-		*(.rodata*)
 		_sidata = .;
 	} >FLASH
 
